@@ -22,10 +22,8 @@
 
 ### Open-source integrations
 
-| | |
-|---|---|
-| [**KOReader**](https://github.com/screvi/screvi-koreader-plugin) | Sync highlights and notes from KOReader on Kindle, Kobo, PocketBook and Android. Connect with a short code, no typing on the e-reader. |
-| [**Obsidian**](https://github.com/screvi/screvi-obsidian-plugin) | Import your Screvi highlights, notes and sources into your vault as Markdown. |
+- **[KOReader](https://github.com/screvi/screvi-koreader-plugin)**: sync highlights and notes from KOReader on Kindle, Kobo, PocketBook and Android. Connect with a short code, no typing on the e-reader.
+- **[Obsidian](https://github.com/screvi/screvi-obsidian-plugin)**: import your Screvi highlights, notes and sources into your vault as Markdown.
 
 Building something on Screvi? The [public API](https://api.screvi.com/api/docs) lets you read and add highlights with an API key from **Settings → API**.
 
